@@ -96,3 +96,7 @@ signing_key.priv
 signing_key.x509
 x509.genkey
 x509_certificate_list
+
+
+# Output directory
+out/*
